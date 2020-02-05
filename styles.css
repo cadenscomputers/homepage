@@ -1,0 +1,47 @@
+body { background-image: url(https://1.bp.blogspot.com/-NshIIiebCV0/Xg55aP3bozI/AAAAAAAACb8/HsE2G3Ym0OwOSk5siUuHvJ9SK6fv9Y2wgCLcBGAsYHQ/s1600/wallpaper%2Bhd.jpg); }
+
+
+
+
+h1 {
+  color: Black;
+  font-size: 64;
+  font-family: arial;
+}
+
+p {
+  color: Black;
+}
+
+
+
+a[href*="twitter.com/"] {
+background:url(https://twitter.com/favicon.ico) no-repeat left center;
+padding-left:19px;
+}
+
+
+a[href*="facebook.com/"] {
+background:url(http://icons.iconarchive.com/icons/designbolts/flat-social-media/16/Facebook-icon.png) no-repeat left center;
+padding-left:19px;
+}
+
+a[href*="youtube.com/"] {
+background:url(http://icons.iconarchive.com/icons/dakirby309/simply-styled/16/YouTube-icon.png) no-repeat left center;
+padding-left:19px;
+}
+
+a[href*="pinterest.nz"] {
+background:url(http://icons.iconarchive.com/icons/danleech/simple/16/pinterest-icon.png) no-repeat left center;
+padding-left:19px;
+}
+
+a[href*="https://firebox.camhigh.school.nz:4100/logon.shtml?redirect=http://www.google.co.nz"] {
+background:url(http://icons.iconarchive.com/icons/google/noto-emoji-people-clothing-objects/16/12192-school-backpack-icon.png) no-repeat left center;
+padding-left:19px;
+}
+
+a[href*="youtube.com/"] {
+background:url(http://icons.iconarchive.com/icons/dakirby309/simply-styled/16/YouTube-icon.png) no-repeat left center;
+padding-left:19px;
+}
